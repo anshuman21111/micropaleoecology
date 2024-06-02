@@ -1,1 +1,17 @@
-# micropaleoecology
+# The Micropaleoecology Framework: Evaluating biotic responses to global change through quantitative paleoproxy, microfossil, and ecological data integration #
+
+**Team Members:** Adam Woodhouse<sup>1,2</sup>, Anshuman Swain<sup>3,4</sup>, Jansen A. Smith<sup>5</sup>, Elizabeth C. Sibert<sup>6</sup>, Adriane R. Lam<sup>7</sup>, Jennifer A. Dunne<sup>8</sup> and Alexandra Auderset<sup>9</sup>
+
+<sup>1</sup>School of Earth Sciences, University of Bristol, Bristol, BS8 1RJ, UK; ORCID: 0000-0002-5877-8742; adam.woodhouse@bristol.ac.uk;
+<sup>2</sup>University of Texas Institute for Geophysics, University of Texas at Austin, Austin, TX 78758, USA;
+<sup>3</sup>Department of Organismic and Evolutionary Biology, 26 Oxford St., Harvard University, Cambridge, MA 02141, USA;
+<sup>4</sup>Museum of Comparative Zoology, 26 Oxford St., Harvard University, Cambridge, MA 02141, USA; ORCID: 0000-0002-9180-2222; anshumanswain@fas.harvard.edu;
+<sup>5</sup>Department of Earth and Environmental Sciences, University of Minnesota Duluth, 1049 University Drive, Duluth, MN 55812, USA; ORCID: 0000-0003-3771-2039; smithja@d.umn.edu; 
+<sup>6</sup>Department of Geology & Geophysics, Woods Hole Oceanographic Institution, 266 Woods Hole Road, Woods Hole, MA 02532, USA; ORCID: 0000-0003-0577-864X; esibert@whoi.edu; 
+<sup>7</sup>Department of Earth Sciences, Binghamton University, 4400 Vestal Parkway East, PO Box 6000, Binghamton, NY 13902; ORCID: 0000-0002-4131-1767 ; alam@binghamton.edu; 
+<sup>8</sup>Santa Fe Institute, 1399 Hyde Park Road, Santa Fe, NM 87501; ORCID: 0000-0002-3789-956; jdunne@santafe.edu; 
+<sup>9</sup>School of Ocean and Earth Science, University of Southampton, European Way, SO14 3ZH Southampton, UK; ORCID: 0000-0002-6316-4980; a.auderset@soton.ac.uk; 
+
+
+## Brief Description ##
+The microfossil record contains abundant, diverse, and well-preserved fossils spanning multiple trophic levels from primary producers to apex predators. In addition, microfossils often constitute and are preserved in high abundances alongside continuous high-resolution geochemical proxy records. These microfossil characteristics mean that they can provide valuable context for understanding the modern climate and biodiversity crises by allowing for the investigation of spatiotemporal scales well beyond what is available in neo-ecological research. Here we formalize a research framework of “micropaleoecology” which builds on a holistic understanding from the organism to ecosystem level, integrating geochemical proxy records with microfossil records and metrics, and drawing on mechanistic models and systems-level statistical analyses to integrate among disparate records. Using multiple proxies and mechanistic mathematical frameworks extends analysis beyond traditional correlation-based studies of paleoecological associations and builds a greater understanding of past ecosystem dynamics. The goal of micropaleoecology is to investigate how environmental changes impact the component and emergent properties of ecosystems through the integration of multi-trophic level body fossil records (primarily using microfossils, and incorporating additional macrofossil data where possible) with contemporaneous environmental (biogeochemical, geochemical, and sedimentological) records. Micropaleoecology, with its focus on integrating ecological metrics within the context of paleontological records, facilitates a deeper understanding of the response of ecosystems across time and space to better prepare for a future Earth under threat from anthropogenic climate change.
